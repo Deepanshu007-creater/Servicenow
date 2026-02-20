@@ -1,0 +1,11 @@
+{
+  "name": "servicenow-rbac",
+  "version": "1.0.0",
+  "description": "Node app showcasing modular RBAC + subscription access control",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  }
+}
